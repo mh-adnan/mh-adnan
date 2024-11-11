@@ -28,3 +28,14 @@
 </p>
 
 
+<h3 align="left">🚀 Passionate frontend developer, creating intuitive and engaging web interfaces. Skilled in modern front-end technologies, with a strong focus on user experience and performance optimization.</h3>
+
+
+
+<h3 align="left">Rapid Fire</h3>
+
+💼 I'm currently working on: 💻 Mulytic Energy
+🌱 I'm currently learning: 📚 Exploring myself
+💬 Ask me about: 💡 HTML, CSS, Tailwind, JavaScript, React, and RESTful APIs
+⚡ Fun fact: 🎢 I once debugged an issue while on a roller coaster!
+
