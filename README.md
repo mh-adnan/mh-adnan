@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="right">
+<p align="center">
   <img alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFyN29tZWY3cjBseW1lOWVyamRiMjV3ODhnNjRtdzZ2cXNhdXI5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 </p>
 
