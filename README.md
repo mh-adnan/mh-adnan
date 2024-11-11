@@ -4,7 +4,11 @@
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-(img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFyN29tZWY3cjBseW1lOWVyamRiMjV3ODhnNjRtdzZ2cXNhdXI5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp")
+<p align="right">
+  <img alt="Coding" width="400" src="https://giphy.com/gifs/computador-gu-tecnology- 
+  bGgsc5mWoryfgKBx1u">
+</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mh-adnan&label=Profile%20views&color=0e75b6&style=flat" alt="mh-adnan" /> </p>
