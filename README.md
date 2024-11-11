@@ -1,4 +1,5 @@
-![GitHub Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR587zj2GmtFDhAqJJZPprkuD6hQ6eWVPLBFYrmtyIcNySDTDE9YXuxma4&s)
+![GitHub Banner](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
 
 
 <h1 align="center">Hi 👋, I'm Mehedi Hassan Adnan</h1>
