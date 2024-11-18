@@ -48,22 +48,22 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" height="28" alt="CSS" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" height="28" alt="Sass" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px">
+<!--   <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px"> -->
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" height="28" alt="C" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/C%2B%2B-F34B7D?logo=c%2B%2B&logoColor=white" height="28" alt="C++" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28" alt="Python" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="28" alt="Bootstrap" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" height="28" alt="Amazon AWS" style="margin-right: 4px">
+<!--   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" height="28" alt="Amazon AWS" style="margin-right: 4px"> -->
   <img src="https://img.shields.io/badge/Kibana-005563?logo=kibana&logoColor=white" height="28" alt="Kibana" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" height="28" alt="Grafana" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="28" alt="Git" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="28" alt="GitHub" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white" height="28" alt="Elasticsearch" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" height="28" alt="Firebase" style="margin-right: 4px">
+<!--   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" height="28" alt="Firebase" style="margin-right: 4px"> -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="28" alt="Figma" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/Pixco-FF3C3C?logo=pixco&logoColor=white" height="28" alt="Pixco" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" height="28" alt="Linux" style="margin-right: 4px">
